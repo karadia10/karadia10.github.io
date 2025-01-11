@@ -6,6 +6,7 @@
 - **Email:** [karadia10@gmail.com](mailto:karadia10@gmail.com)
 - **LinkedIn:** [karadia10](https://www.linkedin.com/in/karadia10/)
 - **GitHub:** [karadia10](https://github.com/karadia10)
+- **LeetCode:**  [![Leetcode Stats](https://leetcard.jacoblin.cool/karadia10)](https://leetcode.com/karadia10)
 
 ## About Me
 
